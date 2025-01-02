@@ -36,7 +36,7 @@ A RESTful API service for managing and executing quizzes, built with Node.js and
 
     ### Without Docker
 
-    1. Start the development server:
+    1. Start the server:
 
         npm run start        
 
