@@ -106,6 +106,12 @@ CURL:
 
 curl --location 'http://localhost:3000/quizzes/94f63d2c-4ad5-47b8-bb1a-30ca7428cc9d/results/user-123'
 
+## Testing
+
+Run the test suite:
+
+  npm test
+
 ## Known Limitations
 
 - Data is stored in-memory and will be lost when the server restarts
